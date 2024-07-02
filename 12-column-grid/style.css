@@ -25,6 +25,9 @@ header nav a {
     margin-left: 10px;
     text-decoration: none;
 }
+header nav a:hover {
+    text-decoration: underline;
+}
 main {
     max-width: 1200px;
     margin: 60px auto;
